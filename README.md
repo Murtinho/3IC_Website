@@ -16,5 +16,5 @@
 
 ### Agenda 2030
 
-###Navbar idea
+Navbar idea
 logo                         About us    Progetti    Argomentazioni    Learning Apps
