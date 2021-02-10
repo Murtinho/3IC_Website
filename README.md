@@ -19,3 +19,6 @@ Qui di seguito c'è la struttura del sito che andremo a creare.
 ### Croce rossa
 
 ### Agenda 2030
+
+Navbar idea
+logo                         About us    Progetti    Argomentazioni    Learning Apps
