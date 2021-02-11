@@ -1,4 +1,4 @@
-# Il sito della 3IC!
+# Il sito della 3IC! V 0.1
 
 Questo sito è un progetto portato avanti dalla classe 3IC dell'ITIS Galileo Galilei di Crema.
 In questo sito abbiamo intenzione di inserire le attività svolte dalla classe nelle varie materie.
