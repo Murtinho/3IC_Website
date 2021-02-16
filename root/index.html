@@ -1,13 +1,57 @@
 <!DOCTYPE html>
-<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!----------Fonts-------------->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;900&display=swap" rel="stylesheet">
+    <!----------End Fonts---------->
+    <!------------Icons------------>
+    <script src="https://kit.fontawesome.com/6b3d7e7ffb.js" crossorigin="anonymous"></script>
+    <!------------End Icons-------->
     <link rel="stylesheet" href="css/style.css">
     <title>Document</title>
 </head>
 <body>
-    
+    <!--------------------------------Navbar------------------------------------->
+    <header>
+        <nav>
+            <a href="#home"><img src="media/logo.png" alt="Logo Galileo Galilei"></a>
+            <ul id="navList">
+                <li ><a href="#home" >Home</a></li>
+                <li ><a href="#">Chi siamo</a></li>
+                <li ><a href="#" >Progetti</a></li>
+                <li ><a href="#" >Argomentazioni</a></li>
+                <li ><a href="#" >Learning Apps</a></li>
+            </ul>
+            <div class="burger">
+                <i class="fas fa-bars visible"></i>
+                <i class="fas fa-times"></i>
+            </div>
+        </nav>
+    </header>
+    <!--------------------------------End Navbar--------------------------------->
+    <!----------------------------------Home------------------------------------->
+    <section id="home" class="container">
+        <div class="content">
+            <div class="mainContent">
+                <p class="title">Ammira e interagisci<br><b>con i magnifici progetti</b><br>della 3IC!</p>
+                <p>
+                    In questo sito web potrai guardare ed interagire con alcuni dei progetti della 3IC.
+                    Potrai in oltre apprendere nuove informazioni dalle varie Learning apps 
+                    create dagli studenti dela classe. 
+                </p>
+                <a href="#" class="btn">LA CLASSE</a>
+            </div>
+        </div>
+        <div class="img">
+            <img src="media/home.svg" alt="sfondo home">
+            <img src="media/sir.svg" alt="Maestro che spiega" class="onlyResp">
+        </div>
+    </section>
+    <section class="container"></section>
+    <!----------------------------------End Home--------------------------------->
+    <script type="text/javascript" src="js/app.js"></script>
 </body>
 </html>
