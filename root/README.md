@@ -1,2 +1,2 @@
 # Attenzione!
-Qua vanno inseriti solo i file HTML e le cartelle principali, tutto il resto andrà inserito nelle varie sottocartelle
+Per visualizzare l'index devi rinominare la cartella `img` in `media`
